@@ -1,0 +1,9 @@
+\\psf\home\documents\visual studio 2012\Projects\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.exe.config
+\\psf\home\documents\visual studio 2012\Projects\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.exe
+\\psf\home\documents\visual studio 2012\Projects\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.pdb
+\\psf\home\documents\visual studio 2012\Projects\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2012\Projects\Stadium Seating\Stadium Seating\obj\Debug\Stadium_Seating.Form1.resources
+\\psf\home\documents\visual studio 2012\Projects\Stadium Seating\Stadium Seating\obj\Debug\Stadium_Seating.Properties.Resources.resources
+\\psf\home\documents\visual studio 2012\Projects\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.csproj.GenerateResource.Cache
+\\psf\home\documents\visual studio 2012\Projects\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.exe
+\\psf\home\documents\visual studio 2012\Projects\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.pdb
